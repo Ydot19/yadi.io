@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>yadi.io</title>
+    <link>http://localhost:1313/</link>
+    <description>Recent content on yadi.io</description>
+    <generator>Hugo -- 0.140.2</generator>
+    <language>en-us</language>
+    <copyright>Yaadata Abdalhalim</copyright>
+    <lastBuildDate>Sun, 05 Jan 2025 19:02:41 -0600</lastBuildDate>
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Beyond Integration Tests in Rust</title>
+      <link>http://localhost:1313/posts/beyond-integration-tests-in-rust/</link>
+      <pubDate>Sun, 05 Jan 2025 19:02:41 -0600</pubDate>
+      <guid>http://localhost:1313/posts/beyond-integration-tests-in-rust/</guid>
+      <description>&lt;h2 id=&#34;overview&#34;&gt;Overview&lt;/h2&gt;
+&lt;p&gt;Exploring how to group and execute different categories of tests using rust and cargo.&lt;/p&gt;
+&lt;!-- Details in the post--&gt;
+&lt;h2 id=&#34;background&#34;&gt;Background&lt;/h2&gt;
+&lt;p&gt;In the second half of 2024, I spent sometime going over the &lt;a href=&#34;https://www.zero2prod.com/index.html?country_code=US&#34;&gt;&lt;code&gt;Zero To Production In Rust&lt;/code&gt; Book&lt;/a&gt; while learning how to use rust to build services. Naturally, I took some of the ideas in the book and gave it my own slight spin based on my past experience. One of these areas was in testing and namely how to test the services at different levels.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>About</title>
+      <link>http://localhost:1313/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/about/</guid>
+      <description>&lt;h3 id=&#34;background&#34;&gt;Background&lt;/h3&gt;
+&lt;p&gt;My name is &lt;em&gt;Yaadata&lt;/em&gt; (pronounced YA-DUH-TA), or &lt;em&gt;&lt;strong&gt;Yadi&lt;/strong&gt;&lt;/em&gt;. With a degree in Chemical and Bio-molecular Engineering, I&amp;rsquo;ve spent 12 years coding (6 professionally), specializing in high-throughput, low-latency distributed systems.&lt;/p&gt;
+&lt;h3 id=&#34;technical-experience&#34;&gt;Technical Experience&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Built enterprise systems using Go, Java, JavaScript, with expertise in:
+&lt;ul&gt;
+&lt;li&gt;Transaction Processing (PostgreSQL, CockroachDB, MySQL, DynamoDB)&lt;/li&gt;
+&lt;li&gt;Analytics Processing (Elasticsearch, Snowflake)&lt;/li&gt;
+&lt;li&gt;Data Processing (Apache Spark, Protocol Buffers, Apache Parquet)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Implemented saga pattern solutions for payment systems:
+&lt;ul&gt;
+&lt;li&gt;Choreography pattern for member entity and card transaction processing&lt;/li&gt;
+&lt;li&gt;Orchestration pattern for FedNow and ACH payment reversals&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Proficient in system-wide performance optimization and troubleshooting across network, application, and database layers&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;For more details: [PLACEHOLDER]&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

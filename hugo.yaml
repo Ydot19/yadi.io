@@ -1,0 +1,53 @@
+baseURL: https://yadi.io
+languageCode: en-us
+title: yadi.io 
+theme: "PaperMod"
+copyright: "© [Yaadata Abdalhalim](https://github.com/Ydot19)"
+
+menu:
+  main:
+    - identifier: about
+      name: About
+      url: about/
+      weight: 10
+    - identifier: search
+      name: Search
+      url: search/
+      weight: 10
+
+markup:
+  goldmark:
+    renderer:
+      unsafe: true
+
+params:
+  title: yadi.io
+  description: "Thoughts, Ideas and Work From Yaadata (Yadi) Abdalhalim"
+  socialIcons:
+    - name: "linkedin"
+      url: "https://www.linkedin.com/in/yaadata-abdalhalim/" 
+    - name: "github"
+      url: "https://github.com/Ydot19" 
+  homeInfoParams:
+    Title: "Welcome!"
+    Content: >
+          Welcome to Yaadata (Yadi) Abdalhalim's personal site — a collection of blogs on technology, focusing on open-source projects, software design, applied statistics, and distributed systems.
+    outputs:
+      home:
+        - HTML
+        - RSS
+        - JSON
+  ShowReadingTime: true
+  fuseOpts:
+    isCaseSensitive: false
+    includeMatches: true
+    minMatchCharLength: 0
+    shouldSort: true
+    location: 0
+    threshold: 0.4
+    distance: 1000
+    keys: ["title", "permalink", "summary", "content"]
+
+
+  showBreadCrumbs: true
+  hideFooter: true
