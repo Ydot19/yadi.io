@@ -1,6 +1,6 @@
 +++
 date = '2025-01-05T19:02:41-06:00'
-draft = true
+draft = false
 title = 'Beyond Integration Tests in Rust'
 categories = ["testing"]
 tags = ["rust", "testing", "tutorial"]
