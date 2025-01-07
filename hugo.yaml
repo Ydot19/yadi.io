@@ -3,6 +3,7 @@ languageCode: en-us
 title: yadi.io 
 theme: "PaperMod"
 copyright: "© [Yaadata Abdalhalim](https://github.com/Ydot19)"
+relativeURLs: true
 
 menu:
   main:
