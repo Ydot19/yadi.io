@@ -7,14 +7,20 @@ searchHidden = false
 
 ### Background
 
-My name is _Yaadata_ (pronounced YA-DUH-TA), or ***Yadi***. With a degree in Chemical and Bio-molecular Engineering, I've spent 12 years coding (6 professionally), specializing in high-throughput, low-latency distributed systems.
+My name is _Yaadata_ (pronounced ya-duh-tah), or ***Yadi***. With a degree in Chemical and Bio-molecular Engineering, I've spent 12 years coding,  6 of those years professionally. My specialization is in high-throughput, low-latency distributed systems but I carry other interests such as
+
+- Statistical trading systems
+- Developer productivity tooling
+- Software Design
 
 ### Technical Experience
 
 - Built enterprise systems using Go, Java, JavaScript, with expertise in:
     - Transaction Processing (PostgreSQL, CockroachDB, MySQL, DynamoDB)
-    - Analytics Processing (Elasticsearch, Snowflake)
-    - Data Processing (Apache Spark, Protocol Buffers, Apache Parquet)
+    - Analytics Processing. 
+   
+    > Software such as Elasticsearch and Snowflake.
+    - Data Processing and Message Passing 
 - Implemented saga pattern solutions for payment systems:
     - Choreography pattern for member entity and card transaction processing
     - Orchestration pattern for FedNow and ACH payment reversals
@@ -22,9 +28,4 @@ My name is _Yaadata_ (pronounced YA-DUH-TA), or ***Yadi***. With a degree in Che
 
 For more details: [PLACEHOLDER]
 
-### Interests
-
-- Distributed systems architecture
-- Statistical trading systems
-- Developer productivity tooling
 

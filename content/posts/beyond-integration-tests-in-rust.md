@@ -1,7 +1,8 @@
 +++
-date = '2025-01-05T19:02:41-06:00'
-draft = true
+date = '2025-01-09'
+draft = false
 title = 'Beyond Integration Tests in Rust'
+Summary = "Exploring how to group and execute a collection of related tests in Rust"
 categories = ["testing"]
 tags = ["rust", "testing", "tutorial"]
 ShowBreadCrumbs = true
@@ -20,7 +21,7 @@ Exploring how to group and execute different categories of tests using rust and 
 
 In the second half of 2024, I spent sometime going over the [`Zero To Production In Rust` Book](https://www.zero2prod.com/index.html?country_code=US) while learning how to use rust to build services. Naturally, I took some of the ideas in the book and gave it my own slight spin based on my past experience. One of these areas was in testing and namely how to test the services at different levels.
 
-Before we go any further, lets talk about the nomenclature in this blog. This nomenclature is not meant to be 100% industry standard but rather a way to have common language around what is that I am describing
+Before we go any further, lets talk about the nomenclature in this blog. This nomenclature is not meant to be 100% industry standard but rather a way to have common language around what is that I am describing.
 
 ### Nomenclature
 
