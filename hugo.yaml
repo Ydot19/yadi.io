@@ -14,15 +14,22 @@ frontmatter:
 
 menu:
   main:
+    - identifier: search
+      name: Search
+      url: /search
+      weight: 1
     - identifier: about
       name: About
       url: /about
       weight: 10
-    - identifier: search
-      name: Search
-      url: /search
-      weight: 10
-
+    - identifier: Posts
+      name: Posts
+      url: /posts
+      weight: 2
+    - identifier: Tags
+      name: Tags
+      url: /tags
+      weight: 3
 markup:
   goldmark:
     renderer:
@@ -55,7 +62,7 @@ params:
     threshold: 0.4
     distance: 1000
     keys: ["title", "permalink", "summary", "content"]
-
+  DateFormat: ":date_medium"
+    
 
   showBreadCrumbs: true
-  hideFooter: true
