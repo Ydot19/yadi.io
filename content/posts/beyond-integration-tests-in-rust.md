@@ -1,5 +1,6 @@
 +++
-date = '2025-01-05T19:02:41-06:00'
+date = '2025-01-09'
+lastmod = '2025-01-09'
 draft = false
 title = 'Beyond Integration Tests in Rust'
 categories = ["testing"]
