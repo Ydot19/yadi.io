@@ -48,7 +48,8 @@ window.onload = function() {
       }
     }
   };
-  xhr.open("GET", "http://localhost:1313/index.json");
+  xhr.open('GET', "../index.json");
+  // xhr.open("GET", "http://localhost:1313/index.json");
   xhr.send();
 }
 
