@@ -47,11 +47,6 @@ params:
     Title: "Welcome!"
     Content: >
           Welcome to Yaadata (Yadi) Abdalhalim's personal site — a collection of blogs on technology, focusing on open-source projects, software design, applied statistics, and distributed systems.
-    outputs:
-      home:
-        - HTML
-        - RSS
-        - JSON
   ShowReadingTime: true
   fuseOpts:
     isCaseSensitive: false
@@ -63,6 +58,10 @@ params:
     distance: 1000
     keys: ["title", "permalink", "summary", "content"]
   DateFormat: ":date_medium"
-    
-
   showBreadCrumbs: true
+
+outputs:
+  home:
+  - HTML
+  - RSS
+  - JSON
