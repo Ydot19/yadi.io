@@ -28,16 +28,16 @@
 &lt;li&gt;Developer productivity tooling&lt;/li&gt;
 &lt;li&gt;Software Design&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h3 id=&#34;technical-experience&#34;&gt;Technical Experience&lt;/h3&gt;
+&lt;h3 id=&#34;professional-experience&#34;&gt;Professional Experience&lt;/h3&gt;
+&lt;h4 id=&#34;summary&#34;&gt;Summary&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;Built enterprise systems using Go, Java, JavaScript, with expertise in:
 &lt;ul&gt;
 &lt;li&gt;
-&lt;p&gt;Built enterprise systems using Go, Java, JavaScript, with expertise in:&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;Transaction Processing (PostgreSQL, CockroachDB, MySQL, DynamoDB)&lt;/li&gt;
-&lt;li&gt;Analytics Processing.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;blockquote&gt;
-&lt;p&gt;Software such as Elasticsearch and Snowflake.&lt;/p&gt;</description>
+&lt;p&gt;Transaction Processing (PostgreSQL, CockroachDB, MySQL, DynamoDB)&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Analytics Processing.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
