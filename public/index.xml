@@ -7,7 +7,7 @@
     <generator>Hugo -- 0.140.2</generator>
     <language>en-us</language>
     <copyright>Yaadata Abdalhalim</copyright>
-    <lastBuildDate>Thu, 16 Jan 2025 13:29:42 -0600</lastBuildDate>
+    <lastBuildDate>Thu, 16 Jan 2025 20:52:53 -0600</lastBuildDate>
     <atom:link href="//localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Beyond Integration Tests in Rust</title>
