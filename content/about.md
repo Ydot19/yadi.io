@@ -31,6 +31,6 @@ My name is _Yaadata_ (pronounced ya-duh-tah), or ***Yadi***. With a degree in Ch
 #### Resume
 <details>
 <summary>Click to View</summary>
-    {{< embed-pdf url="/images/resume.pdf" >}}
+    {{< embed-pdf url="/assets/pdf/resume.pdf" >}}
 </details>
 
